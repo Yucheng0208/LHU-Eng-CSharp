@@ -1,0 +1,36 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "A:\\LHU-Eng-CSharp\\Bonus_01\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{049FA54F-4504-4E7A-A8D5-CD78D8186BC0}|Bonus_01\\Bonus_01.csproj|a:\\lhu-eng-csharp\\bonus_01\\bonus_01\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{049FA54F-4504-4E7A-A8D5-CD78D8186BC0}|Bonus_01\\Bonus_01.csproj|solutionrelative:bonus_01\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Form1.cs [\u8A2D\u8A08]",
+              "DocumentMoniker": "A:\\LHU-Eng-CSharp\\Bonus_01\\Bonus_01\\Form1.cs",
+              "RelativeDocumentMoniker": "Bonus_01\\Form1.cs",
+              "ToolTip": "A:\\LHU-Eng-CSharp\\Bonus_01\\Bonus_01\\Form1.cs [\u8A2D\u8A08]",
+              "RelativeToolTip": "Bonus_01\\Form1.cs [\u8A2D\u8A08]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-10-22T14:34:17.727Z",
+              "EditorCaption": " [\u8A2D\u8A08]"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

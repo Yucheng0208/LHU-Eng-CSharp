@@ -1,0 +1,46 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v10.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v10.0": {
+      "ExCSS/4.2.3": {
+        "runtime": {
+          "lib/net7.0/ExCSS.dll": {
+            "assemblyVersion": "4.2.3.0",
+            "fileVersion": "4.2.3.0"
+          }
+        }
+      },
+      "Svg/3.4.8": {
+        "dependencies": {
+          "ExCSS": "4.2.3"
+        },
+        "runtime": {
+          "lib/net9.0/Svg.dll": {
+            "assemblyVersion": "3.4.0.0",
+            "fileVersion": "3.4.8.1"
+          }
+        }
+      }
+    }
+  },
+  "libraries": {
+    "ExCSS/4.2.3": {
+      "type": "package",
+      "serviceable": true,
+      "sha512": "sha512-SyeAfu2wL5247sipJoPUzQfjiwQtfSd8hN4IbgoyVcDx4PP6Dud4znwPRibWQzLtTlUxYYcbf5f4p+EfFC7KtQ==",
+      "path": "excss/4.2.3",
+      "hashPath": "excss.4.2.3.nupkg.sha512"
+    },
+    "Svg/3.4.8": {
+      "type": "package",
+      "serviceable": true,
+      "sha512": "sha512-KBI/SYpZ0d7YHCoMsviqirp/F9GAWj6VL8gqHwkp9d8TlPECoT9uqvAWP6Dh7V0IGdegfvHPXhZQKNkGpMxhXg==",
+      "path": "svg/3.4.8",
+      "hashPath": "svg.3.4.8.nupkg.sha512"
+    }
+  }
+}

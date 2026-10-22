@@ -1,0 +1,11 @@
+{
+  "version": 2,
+  "dgSpecHash": "33yDE/tcfdU=",
+  "success": true,
+  "projectFilePath": "A:\\LHU-Eng-CSharp\\Bonus_01\\Bonus_01\\Bonus_01.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Ryan\\.nuget\\packages\\excss\\4.2.3\\excss.4.2.3.nupkg.sha512",
+    "C:\\Users\\Ryan\\.nuget\\packages\\svg\\3.4.8\\svg.3.4.8.nupkg.sha512"
+  ],
+  "logs": []
+}
