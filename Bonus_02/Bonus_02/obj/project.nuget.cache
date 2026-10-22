@@ -1,0 +1,18 @@
+{
+  "version": 2,
+  "dgSpecHash": "hiGQufm3Zn0=",
+  "success": true,
+  "projectFilePath": "A:\\LHU-Eng-CSharp\\Bonus_02\\Bonus_02\\Bonus_02.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Ryan\\.nuget\\packages\\microsoft.bcl.asyncinterfaces\\9.0.4\\microsoft.bcl.asyncinterfaces.9.0.4.nupkg.sha512",
+    "C:\\Users\\Ryan\\.nuget\\packages\\microsoft.ml\\5.0.1\\microsoft.ml.5.0.1.nupkg.sha512",
+    "C:\\Users\\Ryan\\.nuget\\packages\\microsoft.ml.cpumath\\5.0.1\\microsoft.ml.cpumath.5.0.1.nupkg.sha512",
+    "C:\\Users\\Ryan\\.nuget\\packages\\microsoft.ml.dataview\\5.0.1\\microsoft.ml.dataview.5.0.1.nupkg.sha512",
+    "C:\\Users\\Ryan\\.nuget\\packages\\microsoft.ml.mkl.redist\\5.0.1\\microsoft.ml.mkl.redist.5.0.1.nupkg.sha512",
+    "C:\\Users\\Ryan\\.nuget\\packages\\microsoft.ml.timeseries\\5.0.1\\microsoft.ml.timeseries.5.0.1.nupkg.sha512",
+    "C:\\Users\\Ryan\\.nuget\\packages\\newtonsoft.json\\13.0.3\\newtonsoft.json.13.0.3.nupkg.sha512",
+    "C:\\Users\\Ryan\\.nuget\\packages\\system.numerics.tensors\\9.0.4\\system.numerics.tensors.9.0.4.nupkg.sha512",
+    "C:\\Users\\Ryan\\.nuget\\packages\\winforms.datavisualization\\1.10.2\\winforms.datavisualization.1.10.2.nupkg.sha512"
+  ],
+  "logs": []
+}
